@@ -47,24 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ammaryasser21&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammaryasser21&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180px"/>
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammaryasser21&theme=radical&hide_border=true" height="180px"/>
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=ammaryasser21&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
-
----
-
 ## 🎯 Fun Facts  
 
 - 🤖 I can **build LLMs** and train **different AI models**  
